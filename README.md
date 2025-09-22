@@ -15,5 +15,7 @@ Key research issues include:
 Kaggle
 
 ### Techniques used
-1. EDA
-2. Machine Learning models: Logistic Regression and Gradient Boosting
+1. Preprocessing data
+2. EDA
+3. Machine Learning models: Logistic Regression and Gradient Boosting
+   
